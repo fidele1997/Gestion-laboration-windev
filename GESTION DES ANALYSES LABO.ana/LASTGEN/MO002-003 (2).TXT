@@ -1,0 +1,4 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Detail_Analyse		TAR	326	nouvelle taille enregistrement : 326
+Detail_Analyse	IDLISTE_ANALYSE	RUB+		IDLISTE_ANALYSE est une nouvelle clé
+Contrainte_LISTE_ANALYSE_Detail_Analyse		NWL	LISTE_ANALYSE (IDLISTE_ANALYSE) et Detail_Analyse (IDLISTE_ANALYSE)	Nouvelle liaison entre les fichiers LISTE_ANALYSE (IDLISTE_ANALYSE) et Detail_Analyse (IDLISTE_ANALYSE)

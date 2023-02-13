@@ -1,0 +1,8 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+USERADMIN		TAR	1032	nouvelle taille enregistrement : 1032
+USERADMIN	Q1	RUB+		Q1 est une nouvelle rubrique
+USERADMIN	Q2	RUB+		Q2 est une nouvelle rubrique
+USERADMIN	Q3	RUB+		Q3 est une nouvelle rubrique
+USERADMIN	R1	RUB+		R1 est une nouvelle rubrique
+USERADMIN	R2	RUB+		R2 est une nouvelle rubrique
+USERADMIN	R3	RUB+		R3 est une nouvelle rubrique

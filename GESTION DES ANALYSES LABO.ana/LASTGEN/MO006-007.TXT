@@ -1,0 +1,5 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+DONNEES		TAR	323	nouvelle taille enregistrement : 323
+DONNEES	Norme_H	NNR	NasResult	ATTENTION : la rubrique NasResult a pour nouveau nom Norme_H
+DONNEES	Norme_F	RUB+		Norme_F est une nouvelle rubrique
+DONNEES	Norme_V	RUB+		Norme_V est une nouvelle rubrique

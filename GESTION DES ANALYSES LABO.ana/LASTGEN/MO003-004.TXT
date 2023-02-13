@@ -1,0 +1,4 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+PATIENT		TAR	731	nouvelle taille enregistrement : 731
+PATIENT	Nom	RUB+		Nom est une nouvelle clé
+PATIENT	Prenom	RUB+		Prenom est une nouvelle clé

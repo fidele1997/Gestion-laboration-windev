@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+PATIENT		TAR	781	nouvelle taille enregistrement : 781
+PATIENT	Sexe	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique Sexe a pour nouveau type Chaîne

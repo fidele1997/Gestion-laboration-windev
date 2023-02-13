@@ -1,0 +1,3 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+DONNEES		TAR	596	nouvelle taille enregistrement : 596
+DONNEES	libelE_detail_Anal	RUB+		libelE_detail_Anal est une nouvelle clé

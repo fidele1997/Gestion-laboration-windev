@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+USERADMIN		TAR	726	nouvelle taille enregistrement : 726
+USERADMIN	mode	RUB+		mode est une nouvelle clé

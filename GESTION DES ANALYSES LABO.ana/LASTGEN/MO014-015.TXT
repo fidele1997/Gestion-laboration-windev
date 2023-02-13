@@ -1,0 +1,5 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+DONNEES		TAR	545	nouvelle taille enregistrement : 545
+DONNEES	AgentM	RUB+		AgentM est une nouvelle clé
+DONNEES	AgentS	RUB+		AgentS est une nouvelle clé
+DONNEES	MMedecin	RUB+		MMedecin est une nouvelle rubrique

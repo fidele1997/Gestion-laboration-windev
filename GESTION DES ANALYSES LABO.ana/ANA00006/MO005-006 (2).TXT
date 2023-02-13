@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+SEXE		NFI		nouveau fichier
+SEXE	Sexe	RRN		

@@ -1,0 +1,4 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+AgentM		NFI		nouveau fichier
+AgentS		NFI		nouveau fichier
+Médecin_demandeur		NFI		nouveau fichier

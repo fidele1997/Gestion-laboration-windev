@@ -1,0 +1,3 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+PATIENT		TAR	784	nouvelle taille enregistrement : 784
+PATIENT	AgePatient	RUB+		AgePatient est une nouvelle clé

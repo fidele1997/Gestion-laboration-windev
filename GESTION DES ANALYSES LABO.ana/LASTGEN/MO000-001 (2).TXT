@@ -1,0 +1,14 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Admin		NFI		nouveau fichier
+LISTE_ANALYSE		NFI		nouveau fichier
+TYPE_ANALYSE		NFI		nouveau fichier
+Detail_Analyse		NFI		nouveau fichier
+PATIENT		NFI		nouveau fichier
+MESURE		NFI		nouveau fichier
+DONNEES		NFI		nouveau fichier
+BULLETIN		NFI		nouveau fichier
+Contrainte_DONNEES_BULLETIN		NWL	DONNEES (IDDONNEES) et BULLETIN (IDDONNEES)	Nouvelle liaison entre les fichiers DONNEES (IDDONNEES) et BULLETIN (IDDONNEES)
+MaConnexion1		CNX+		
+Connexion à 'FIDELE'		CNX+		
+Detail_Analyse		FRN		
+PATIENT	Sexe	RRN		

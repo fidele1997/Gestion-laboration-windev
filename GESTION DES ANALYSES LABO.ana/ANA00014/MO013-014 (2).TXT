@@ -1,0 +1,6 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Detail_Analyse		TAR	530	nouvelle taille enregistrement : 530
+Detail_Analyse	mesure	RUB+		mesure est une nouvelle rubrique
+Detail_Analyse	Norme_F	RUB+		Norme_F est une nouvelle rubrique
+Detail_Analyse	Norme_H	RUB+		Norme_H est une nouvelle rubrique
+Detail_Analyse	Norme_V	RUB+		Norme_V est une nouvelle rubrique

@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+DONNEES		TAR	392	nouvelle taille enregistrement : 392
+DONNEES	Date_	CLEN*		la rubrique Date_ est maintenant une clé
+DONNEES	Date_	CNW	Date (aaaammjj)$Chaîne	la rubrique Date_ a pour nouveau type Date (aaaammjj)

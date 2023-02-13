@@ -1,0 +1,6 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+DONNEES		TAR	866	nouvelle taille enregistrement : 866
+DONNEES	Resultat	TAI+	150	la rubrique Resultat a comme nouvelle taille 201 au lieu de 51
+DONNEES	Norme_H	TAI+	40	la rubrique Norme_H a comme nouvelle taille 91 au lieu de 51
+DONNEES	Norme_F	TAI+	40	la rubrique Norme_F a comme nouvelle taille 91 au lieu de 51
+DONNEES	Norme_V	TAI+	40	la rubrique Norme_V a comme nouvelle taille 91 au lieu de 51

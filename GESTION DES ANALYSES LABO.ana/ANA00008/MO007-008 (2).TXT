@@ -1,0 +1,5 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+DONNEES		TAR	383	nouvelle taille enregistrement : 383
+DONNEES	IDPATIENT	RUB+		IDPATIENT est une nouvelle clé
+DONNEES	Partient	RUB+		Partient est une nouvelle clé
+Contrainte_PATIENT_DONNEES		NWL	PATIENT (IDPATIENT) et DONNEES (IDPATIENT)	Nouvelle liaison entre les fichiers PATIENT (IDPATIENT) et DONNEES (IDPATIENT)
